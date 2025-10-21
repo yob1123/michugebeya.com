@@ -1,0 +1,10 @@
+2025-10-16 00:49:27 - Processing order request
+2025-10-16 00:49:27 - Cart data received: 2 items
+2025-10-16 00:49:27 - Total amount calculated: 1450
+2025-10-16 00:49:27 - Database transaction started
+2025-10-16 00:49:27 - Error placing order: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_link' in 'field list'
+2025-10-16 00:50:20 - Processing order request
+2025-10-16 00:50:20 - Cart data received: 2 items
+2025-10-16 00:50:20 - Total amount calculated: 1450
+2025-10-16 00:50:20 - Database transaction started
+2025-10-16 00:50:20 - Error placing order: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'payment_link' in 'field list'
